@@ -63,10 +63,10 @@ Current analytics services supported:
 
 #### Supported Django and Python Versions
 
-Django / Python | 3.6 | 3.7 | 3.8
---------------- | --- | --- | ---
-2.2  |  *  |  *  |  *
-3.0  |  *  |  *  |  *
+Django / Python | 3.6 | 3.7 | 3.8 | 3.9 | 3.10 | 3.11
+--------------- | --- | --- | --- | -- | -- | --
+3.0  |  *  |  *  |  * | * | * | *
+4.2  |  *  |  *  |  * | * | * | *
 
 
 ## Documentation
